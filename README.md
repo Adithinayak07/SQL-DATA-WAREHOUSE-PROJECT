@@ -74,4 +74,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 🛡️ License
-This project is licensed under the [MIT License](https://www.drawio.com/). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](https://github.com/Adithinayak07/SQL-DATA-WAREHOUSE-PROJECT/blob/main/LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+
+🌟 About Me
+Hi there !!
+I'm Adithi Nayak , currently a final year student studying at Shri Madhwa Vadiraja Institute of Technology and Management
+Let's stay in touch! Feel free to connect with me on [linkedin](https://www.linkedin.com/in/adithi-nayak-05b1a3277/)
