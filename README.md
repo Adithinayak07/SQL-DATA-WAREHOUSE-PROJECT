@@ -35,7 +35,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - Data Analytics
 
 ---
-🛠️ Important Links & Tools:
+**🛠️ Important Links & Tools:**
 
 - [Dataset](https://github.com/Adithinayak07/SQL-DATA-WAREHOUSE-PROJECT/tree/main/datasets): Access to the project dataset (csv files).
 - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
@@ -44,3 +44,34 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
 - [Notion](https://www.notion.com/templates/sql-data-warehouse-project): Get the Project Template from Notion
 - [Notion Project Steps]([https://www.drawio.com/](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269)): Access to All Project Phases and Tasks.
+
+---
+**🚀 Project Requirements**
+
+Building the Data Warehouse (Data Engineering)
+
+Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+Specifications
+- Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+- Data Quality: Cleanse and resolve data quality issues prior to analysis.
+- Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+- Scope: Focus on the latest dataset only; historization of data is not required.
+- Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+---
+**BI: Analytics & Reporting (Data Analysis)**
+
+Objective
+Develop SQL-based analytics to deliver detailed insights into:
+- Customer Behavior
+- Product Performance
+- Sales Trends
+
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+---
+
+🛡️ License
+This project is licensed under the [MIT License](https://www.drawio.com/). You are free to use, modify, and share this project with proper attribution.
