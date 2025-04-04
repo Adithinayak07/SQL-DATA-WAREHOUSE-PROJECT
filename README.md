@@ -38,11 +38,10 @@ Data Analytics
 Everything is for Free!
 
 
-[Dataset]([https://example.com](https://github.com/Adithinayak07/SQL-DATA-WAREHOUSE-PROJECT/tree/main/datasets)): Access to the project dataset (csv files).
-
-[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
-[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16): GUI for managing and interacting with databases.
-[Git Repository](https://github.com/): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-[DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
-[Notion](https://www.notion.com/templates/sql-data-warehouse-project): Get the Project Template from Notion
-Notion Project Steps: Access to All Project Phases and Tasks.
+- [Dataset]([https://example.com](https://github.com/Adithinayak07/SQL-DATA-WAREHOUSE-PROJECT/tree/main/datasets)): Access to the project dataset (csv files).
+- [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting your SQL database.
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16): GUI for managing and interacting with databases.
+- [Git Repository](https://github.com/): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- [DrawIO](https://www.drawio.com/): Design data architecture, models, flows, and diagrams.
+- [Notion](https://www.notion.com/templates/sql-data-warehouse-project): Get the Project Template from Notion
+- Notion Project Steps: Access to All Project Phases and Tasks.
